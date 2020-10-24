@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img_645.jpg</filename>
+	<path>/Users/apple/Desktop/ShoestringHackathon2020/TrainingData/validation/images/img_645.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>220</ymin>
+			<xmax>406</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
