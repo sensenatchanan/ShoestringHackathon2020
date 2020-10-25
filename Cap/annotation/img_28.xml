@@ -23,4 +23,16 @@
 			<ymax>148</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>99</ymin>
+			<xmax>331</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
 </annotation>
